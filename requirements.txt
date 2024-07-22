@@ -1,0 +1,8 @@
+evidently
+prefect
+mlflow
+selenium
+nltk
+tqdm
+pandas
+scikit-learn
